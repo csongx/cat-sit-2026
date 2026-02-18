@@ -85,7 +85,7 @@ const App: React.FC = () => {
             <div className={`w-20 h-20 rounded-full bg-white shadow-xl p-0.5 border-2 overflow-hidden transition-all duration-500 ${logoError ? 'border-orange-200 animate-pulse' : 'border-white'}`}>
               {!logoError ? (
                 <img 
-                  src="/cats.png" 
+                  src="/macskak.png" 
                   alt="My Cats" 
                   className="w-full h-full object-cover"
                   style={{ objectPosition: 'center center' }}
